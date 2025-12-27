@@ -19,6 +19,11 @@
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+[<img align="left" alt="Mohamed Hassan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Mohamed Hassan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Mohamed Hassan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
 
 [linkedin]: https://www.linkedin.com/in/mohamed-hassan-2859352a
 [Instagram]: https://instagram.com/https://www.instagram.com/motech2025?fbclid=IwY2xjawO8-F1leHRuA2FlbQIxMABicmlkETBFV0luWXJmMUxMZU5EZ1Uzc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHj61WxtYudKM4T_kkHDWmmutTtthLsoppdaRe-9svxiHd7c7F_mIY1bhgnQU_aem_Qc6XZ5Y4AA-xXbgY3TFszQ
