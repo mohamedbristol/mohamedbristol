@@ -21,6 +21,6 @@
 
 
 [linkedin]: https://www.linkedin.com/in/mohamed-hassan-2859352a
-Instagram: https://instagram.com/https://www.instagram.com/motech2025?fbclid=IwY2xjawO8-F1leHRuA2FlbQIxMABicmlkETBFV0luWXJmMUxMZU5EZ1Uzc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHj61WxtYudKM4T_kkHDWmmutTtthLsoppdaRe-9svxiHd7c7F_mIY1bhgnQU_aem_Qc6XZ5Y4AA-xXbgY3TFszQ
-- Twitter/X: https://x.com/https://x.com/Motech2022?fbclid=IwY2xjawO8-QRleHRuA2FlbQIxMABicmlkETBFV0luWXJmMUxMZU5EZ1Uzc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHgqOme1Sj24ini193SJbzk2lZPzyGzFHCl7XHpCYKpnbQUwl1kePV320iAGL_aem_vaDSuFqFOLFeX7AYx2TfHg
+[Instagram]: https://instagram.com/https://www.instagram.com/motech2025?fbclid=IwY2xjawO8-F1leHRuA2FlbQIxMABicmlkETBFV0luWXJmMUxMZU5EZ1Uzc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHj61WxtYudKM4T_kkHDWmmutTtthLsoppdaRe-9svxiHd7c7F_mIY1bhgnQU_aem_Qc6XZ5Y4AA-xXbgY3TFszQ
+[Twitter/X]: https://x.com/https://x.com/Motech2022?fbclid=IwY2xjawO8-QRleHRuA2FlbQIxMABicmlkETBFV0luWXJmMUxMZU5EZ1Uzc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHgqOme1Sj24ini193SJbzk2lZPzyGzFHCl7XHpCYKpnbQUwl1kePV320iAGL_aem_vaDSuFqFOLFeX7AYx2TfHg
 
