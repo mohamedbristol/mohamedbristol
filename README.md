@@ -16,16 +16,13 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 [<img align="left" alt="Mohamed Hassan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mohamed Hassan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Mohamed Hassan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
-[linkedin]: https://www.linkedin.com/in/mohamed-hassan-2859352a
+
 [linkedin]: https://www.linkedin.com/in/mohamed-hassan-2859352a
 [twitter]: https://x.com/Motech2022
 [instagram]: https://www.instagram.com/motech2025/
